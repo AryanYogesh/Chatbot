@@ -16,7 +16,11 @@ Features
 ✅ Chatbot memory & analytics dashboard (Planned)
 
 Tech Stack
+
 🔹 Frontend: React, Material UI
+
 🔹 Backend: FastAPI/Flask, LangGraph
+
 🔹 Database: MySQL
+
 🔹 LLM Integration: Hugging Face API / LLaMA 2
